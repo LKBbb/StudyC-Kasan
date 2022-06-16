@@ -1,7 +1,6 @@
 # StudyC-Kasan
 C학습 Repository
-
-
+![Clogo](https://raw.githubusercontent.com/LKBbb/StudyC-Kasan/main/images/c_logo.png)
 <br/>
 
 ## Day 1
