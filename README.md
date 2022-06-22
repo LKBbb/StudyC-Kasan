@@ -34,6 +34,18 @@ C학습 Repository
   - 소코반
   - 주소록 Program(MySQL)
 
-## Day 4
+## Day 4 ~ 5
+- 실습예제
+  - 도서관 관리 프로그램(MySQL)
+    - MSVC(C)
+    - MySQL Connector C 6.1
+    - MySQL Server
 
-## Day 5
+#### 실행화면
+![displaydata](https://raw.githubusercontent.com/LKBbb/StudyC-Kasan/main/images/display_data.png)
+기본 조회화면
+
+<br/>
+
+![editdata](https://raw.githubusercontent.com/LKBbb/StudyC-Kasan/main/images/edit_data.png)
+책 정보 수정화면
