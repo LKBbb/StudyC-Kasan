@@ -43,9 +43,11 @@ C학습 Repository
 
 #### 실행화면
 ![displaydata](https://raw.githubusercontent.com/LKBbb/StudyC-Kasan/main/images/display_data.png)
+
 기본 조회화면
 
 <br/>
 
 ![editdata](https://raw.githubusercontent.com/LKBbb/StudyC-Kasan/main/images/edit_data.png)
+
 책 정보 수정화면
